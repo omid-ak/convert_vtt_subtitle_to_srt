@@ -1,4 +1,4 @@
-#That is a simple script to convert .vtt subtitles in a directorectory to .srt
+### That is a simple script to convert .vtt subtitles in a directorectory to .srt
 <br/>
 **you need to accomplish this steps:**
 
