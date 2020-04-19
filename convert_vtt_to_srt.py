@@ -3,7 +3,7 @@
 -*- coding: utf-8 -*-
 v1.0
 copyright (c) 2020 Omid Akhgary. all rights reserved.
-licence: GPL3
+licence: MIT
 email: omid7798@gmail.com
 """
 
